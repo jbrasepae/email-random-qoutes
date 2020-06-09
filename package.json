@@ -1,0 +1,19 @@
+{
+  "name": "jeanette-rasepae-230-email-random-inspirational-quote",
+  "version": "1.0.0",
+  "description": "Email random inspirational quote (230)\r For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/basic-unit-test-mocks-kata/_index.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Jeanette-Rasepae-230-email-random-inspirational-quote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Jeanette-Rasepae-230-email-random-inspirational-quote/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Jeanette-Rasepae-230-email-random-inspirational-quote#readme"
+}
