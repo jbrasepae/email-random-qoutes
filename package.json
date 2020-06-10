@@ -4,7 +4,8 @@
   "description": "Email random inspirational quote (230)\r For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/basic-unit-test-mocks-kata/_index.md",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine",
+    "send_inspiration": "node index.js" 
   },
   "repository": {
     "type": "git",
