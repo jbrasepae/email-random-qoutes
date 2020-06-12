@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jasmine",
-    "send_inspiration": "node index.js" 
+    "send_inspiration": "node send_inspiration.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Umuzi-org/Jeanette-Rasepae-230-email-random-inspirational-quote/issues"
   },
-  "homepage": "https://github.com/Umuzi-org/Jeanette-Rasepae-230-email-random-inspirational-quote#readme"
+  "homepage": "https://github.com/Umuzi-org/Jeanette-Rasepae-230-email-random-inspirational-quote#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.8"
+  }
 }
